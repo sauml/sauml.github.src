@@ -1,0 +1,41 @@
+baseurl = "/"
+languageCode = "fr-FR"
+Title = "Sauml Blog Notes"
+theme = "hugo-bootstrap-premium"
+canonifyurls = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+
+[blackfriday]
+#    sourceRelativeLinksEval = true
+    relativeURLs = true
+
+[Params]
+    Author = "Samuel Chartier"
+    showRightSidebar = true
+    BrandImage = ""
+    showBlogHeader = true
+    highlight = "github"
+   
+[Params.theme]
+    name = "lumen"
+
+[[menu.main]]
+    name = "Blog"
+    pre = ""
+    weight = 10
+    identifier = "post"
+    url = "/post/"
+    
+[[menu.main]]
+    name = "Tags"
+    pre = ""
+    weight = 20
+    identifier = "tags"
+    url = "/tags/"
+
