@@ -25,4 +25,7 @@ $ echo "public" >> .gitignore
 ```
 $ git init
 $ git add --all
+$ git commit --allow-empty -m "premier commit"
+$ git remote add origin https://github.com/sauml/sauml.github.src.git
+$ git push -u origin master
 ```
