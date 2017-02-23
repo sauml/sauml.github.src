@@ -12,7 +12,6 @@ canonifyurls = true
     tag = "tags"
 
 [blackfriday]
-#    sourceRelativeLinksEval = true
     relativeURLs = true
 
 [Params]
@@ -20,7 +19,7 @@ canonifyurls = true
     showRightSidebar = true
     BrandImage = ""
     showBlogHeader = true
-    highlight = "github"
+    highlight = "monokai"
    
 [Params.theme]
     name = "lumen"

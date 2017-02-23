@@ -9,6 +9,11 @@ tags = ["todo"]
 
 +++
 
+- [ ] Un blog pour gérer mes notes.
+    - [X] Faire un premier jet / plan
+    - [X] Mettre en page
+    - [ ] Faire une recherche sur les TODO
+    - [ ] Corriger Orthographe et grammaire
 - [ ] Hugo
 	- S'inspirer de ce [site](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04)
 	- et [celui ci](http://rcoedo.com/post/hugo-static-site-generator/)
@@ -45,5 +50,7 @@ tags = ["todo"]
             - Alt-Z on a folded block will expand it
             - Alt-X will collapse all blocks on the deepest indention column (you can keep pressing Alt-X until all indention levels are folded)
             - Shift-Alt-X will expand all the collapsed blocks
-        
-
+- Ajouter taximonie
+    - Catégorie
+        - rechercher sur le site de hugo comment faire pour avoir des accents
+- Mette TableOfContents en gras

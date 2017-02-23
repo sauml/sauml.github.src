@@ -21,7 +21,6 @@ $ echo "public" >> .gitignore
 
 ```
 
-## initialiser le dépôt
 ```
 $ git init
 $ git add --all
@@ -29,3 +28,22 @@ $ git commit --allow-empty -m "premier commit"
 $ git remote add origin https://github.com/sauml/sauml.github.src.git
 $ git push -u origin master
 ```
+
+# Déployer le site
+
+ATTENTION SUPPRIMER PUBLIC/ AVANT DE REGENERER LE SITE.
+
+
+
+```
+$ cd public/
+$ git init
+$ git add --all
+$ git commit -m "premier commit"
+$ git remote add origin https://github.com/sauml/sauml.github.io.git
+$ git push -u origin master
+```
+
+# Visualiser le résultat
+Le site est visible à l'adresse `http://sauml.github.io/`
+
