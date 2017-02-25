@@ -91,8 +91,8 @@ Il n'est donc pas utile d'utiliser de plugin ou un éditeur spécifiquement pré
 
 Je pense avoir trouvé les outils répondant au besoin.  
 
-Il ne me reste plus qu'à mettre en place un nouveau blog, pour maintenir mais notes.  
+Il ne me reste plus qu'à mettre en place un nouveau blog, pour maintenir mes notes.  
 J'y ajouterai des articles au fur et à mesure de mes différentes expérimentations ou lectures.  
 Je modifierai les articles existants pour les compléter ou les corriger en fonction de mon apprentissage sur les différents points abordés.  
 
-La je pense que la création de ce bolg-notes fera l'objet de plusieurs articles.  
+Je pense que la création de ce bolg-notes fera l'objet de plusieurs articles.  
