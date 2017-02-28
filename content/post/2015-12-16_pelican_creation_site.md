@@ -4,7 +4,7 @@ title = "Création du blog-notes avec Pélican"
 slug = "pelican-creation-site"
 draft = false
 toc = true
-tags = [ "pelican", "blog notes" ]
+tags = [ "pelican", "blog" ]
 
 +++
 
@@ -68,7 +68,7 @@ Créer les fichiers suivants:
 
         pelican content --output output --settings publishconf.py
 
-Pour développer me site en local, lancer:
+Pour développer le site en local, lancer:
 ```
 sauml.bitbucket.org>start pelrun.bat
 sauml.bitbucket.org>start pelserve.bat

@@ -4,7 +4,7 @@ title = "Test du theme en cours"
 slug = "test-theme"
 draft = false
 toc = true
-tags = ["blog notes" ]
+tags = ["blog" ]
 
 +++
 

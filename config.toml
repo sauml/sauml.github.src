@@ -5,7 +5,7 @@ theme = "hugo-bootstrap-premium"
 canonifyurls = true
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year/:month/:slug/"
     code = "/:slug/"
 
 [taxonomies]

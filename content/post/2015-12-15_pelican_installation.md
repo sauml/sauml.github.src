@@ -4,7 +4,7 @@ title = "Installation de Pélican"
 slug = "installation-de-pelican"
 draft = false
 toc = true
-tags = [ "pelican", "blog notes" ]
+tags = [ "pelican", "blog" ]
 
 +++
 
