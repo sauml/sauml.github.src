@@ -1,7 +1,7 @@
 ﻿+++
 date = "2015-12-16"
 title = "Test du theme en cours"
-slug = "test-theme"
+slug = "2015-12-16_theme_tests"
 draft = false
 toc = true
 tags = ["blog" ]

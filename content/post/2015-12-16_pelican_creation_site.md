@@ -1,7 +1,7 @@
 ﻿+++
 date = "2015-12-16T22:48:34+01:00"
 title = "Création du blog-notes avec Pélican"
-slug = "pelican-creation-site"
+slug = "2015-12-16_pelican_creation_site"
 draft = false
 toc = true
 tags = [ "pelican", "blog" ]

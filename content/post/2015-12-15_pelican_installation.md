@@ -1,10 +1,10 @@
 ﻿+++
 date = "2015-12-15"
 title = "Installation de Pélican"
-slug = "installation-de-pelican"
+slug = "2015-12-15_pelican_installation"
 draft = false
 toc = true
-tags = [ "pelican", "blog" ]
+tags = [ "pelican", "blog", "installation" ]
 
 +++
 

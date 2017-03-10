@@ -1,7 +1,7 @@
 ﻿+++
 date = "2017-03-03T22:38:10+01:00"
 title = "Hugo Partie 2: Installer"
-slug = "hugo-2-installer"
+slug = "2017-03-03_hugo_2_installer"
 draft = false
 tags = ["hugo", "blog"]
 toc = true

@@ -2,7 +2,7 @@
 date = "2017-02-24T23:25:04+01:00"
 type = "post"
 title = "Un blog pour mes notes"
-slug = "un-blog-pour-mes-notes"
+slug = "2017-02-24_un_blog_pour_mes_notes"
 draft = false
 toc = true
 tags = ["blog","hugo", "github"]

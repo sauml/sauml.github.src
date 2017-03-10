@@ -1,10 +1,10 @@
 ﻿+++
 date = "2016-01-13"
 title = "Correction d'orthographe sous vim"
-slug = "vim-correction-orthographe"
+slug = "2016-01-13_vim_correction_othographe"
 draft = false
 toc = true
-tags = ["vim"]
+tags = ["vim", "installation"]
 
 +++
 
